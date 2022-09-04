@@ -1,0 +1,5 @@
+# Project exclude paths
+/Tio-websocket/target/
+/Tio-websocket-cluster/target/
+/Tio-websocket-cluster2/target/
+/Tio-websocket-cluster3/target/
